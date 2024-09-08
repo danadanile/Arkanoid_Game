@@ -17,7 +17,7 @@ Java
 
 After it, run the following commands in the terminal:
 ```
-git clone https://github.com/adi-ben-yehuda/Arkanoid-Game.git
+git clone https://github.com/danadanile/Arkanoid_Game.git
 ant compile
 ant -Dargs="{text}" run
 ```
