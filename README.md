@@ -12,15 +12,18 @@ Ant
 Java
 
 After it, run the following commands in the terminal:
-
+```
 git clone https://github.com/adi-ben-yehuda/Arkanoid-Game.git
 ant compile
 ant -Dargs="{text}" run
+```
 
 The text will contain the levels that will be shown in the game. There are four levels.
+
 If the user enters different numbers or letters, the program will ignore it.
 
 ### Author:
 Dana Danilenko
+
 Year Created: 2021
 
